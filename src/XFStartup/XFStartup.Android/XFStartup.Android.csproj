@@ -43,6 +43,7 @@
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
 <AndroidDexTool>d8</AndroidDexTool>
 <AndroidLinkTool>r8</AndroidLinkTool>
+<AotAssemblies>true</AotAssemblies>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
